@@ -21,7 +21,10 @@
     "**/*.tsx",
     "jest.setup.js",
     "src/components/tamplet/sd.tsx",
-    "src/components/tamplet/.test.tsx"
+    "src/components/tamplet/.test.tsx",
+    "src/pages/Home/.stories.tsx",
+    "src/pages/Home/.spec.tsx",
+    "src/components/tamplet/.spec.tsx"
   ],
   "exclude": ["node_modules"],
   "types": ["node", "jest", "@testing-library/jest-dom"]
